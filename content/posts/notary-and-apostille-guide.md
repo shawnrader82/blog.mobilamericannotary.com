@@ -1,3 +1,9 @@
+---
+title: 'The Ultimate Guide to Notary and Apostille Services for International Documents'
+description: 'Learn everything you need to know about notary and apostille services for international documents, including common requirements, processing times, and how to avoid common mistakes.'
+keywords: 'notary, apostille, international documents, document authentication, Hague Convention, document legalization, mobile notary, document translation, document notarization, legal documents'
+---
+
 # The Ultimate Guide to Notary and Apostille Services for International Documents
 
 ## Why You Need an Apostille for International Documents
